@@ -78,7 +78,3 @@ python env/app.py
 http://127.0.0.1:5000
 ```
 
-## Notes
-
-- The recommendation flow expects hotel names that exist in the pivot/index dataset (`pt.pkl`).
-- Core recommendation assets are loaded from pickle files at startup.
